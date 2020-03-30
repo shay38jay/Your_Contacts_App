@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Your Contacts App--Address Book</string>
+    <string name="imageGordino">image of Gordino J.</string>
+    <string name="imageKatera">image of Katera J.</string>
+    <string name="btnKatera">Katera J.</string>
+    <string name="btnGordino">Gordino J.</string>
+    <string name="txtKateraName">Katera Johnson</string>
+    <string name="txtGordinoName">Gordino Jackson</string>
+    <string name="txtPhoneKatera">999 -001-1234</string>
+    <string name="txtPhoneGordino">999-888-5678</string>
+    <string name="txtAddress" translatable="false">8572 Waterloop Dr.</string>
+    <string name="txtAddress2">Clearwater FL, 37864</string>
+    <string name="txtAddress3">7802 Sandscript Dr.</string>
+    <string name="txtAddress4">Largo FL, 37687</string>
+</resources>
